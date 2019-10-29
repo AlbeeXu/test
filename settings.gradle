@@ -1,0 +1,2 @@
+include ':app', ':gsyVideoPlayer-java', ':gsyVideoPlayer'
+rootProject.name='My Application'
